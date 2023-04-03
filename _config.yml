@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Devin Hua"
   avatar           : "devin_headshot.JPG"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Software Developer, Data Systems at YouthTruth Student Survey"
   location         : "Alameda, California"
-  employer         : "YouthTruth"
+  employer         : 
   pubmed           :
   googlescholar    :
   email            : "devin.hua@berkeley.edu"
