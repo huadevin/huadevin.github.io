@@ -1,2 +1,4 @@
-# Thank you for reaching out!
-### I will do my best to get back to you promptly
+Thank you for getting in touch! 
+
+I appreciate you contacting me! I will get back in touch with you soon and have a great day!
+
