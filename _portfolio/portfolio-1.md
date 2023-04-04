@@ -1,7 +1,6 @@
 ---
 title: "Trump Tweets Analysis"
-excerpt: "Using Twitter API to analyze Trump tweets <br/><img src='/images/trump_tweets.jpeg' width=500 height=300>"
-Feature photo: CNN Politics
+excerpt: "Using Twitter API to analyze Trump tweets <br/><img src='/images/trump_tweets.jpeg' alt=Feature photo: CNN Politics width=500 height=300>"
 collection: portfolio
 ---
 
