@@ -1,6 +1,6 @@
 ---
 title: "Trump Tweets Analysis"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/trump_tweets.jpeg'>"
+excerpt: "Using Twitter API to analyze Trump's tweets<br/><img src='/images/trump_tweets.jpeg' sizes="500x300">"
 collection: portfolio
 ---
 
