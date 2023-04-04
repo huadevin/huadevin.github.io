@@ -15,11 +15,13 @@ Area Youth Ministry 📌: https://areayouth.org
 
 What I do
 ======
+
 | Technologies | Software & Tools |
 | --- | --- |
 | `Python` | Pandas, NumPy, SQLAlchemy, Sklearn, Matplotlib, Seaborn|
 | `SQL` | PostgreSQL, SQL Server, MySQL |
 | `Cloud` | Salesforce, AWS, dbt, Qualtrics |
+
 
 Get in Touch!
 =====
