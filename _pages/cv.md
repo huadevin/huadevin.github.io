@@ -20,9 +20,8 @@ Springboard Data Analytics Bootcamp
 
 Work experience
 ======
-* March 2021: Software Developer, Data Systems
-  * YouthTruth Student Survey
-  * Duties included: 
+Software Developer, Data Systems at YouthTruth Student Survey
+* Duties included: 
 
 | Domain | Description |
 | --- | --- |
@@ -30,7 +29,6 @@ Work experience
 | `Software Development` | • Assist analysts in capturing requirements and creating specifications <br> • Identify opportunities to improve the platform <br> • Estimate timeline and plan implementation of new software features <br> • Participate in report generation and implement software based on Python-driven data engine and online interactive reporting platform <br> • Manage software releases and deployments |
 | `Database Management` | • Maintain SQL database: create and edit tables and views as needed, regularly clean old/outdated information <br> • Collaborate with analyst team and software architect to manage and synchronize data systems|
 
-  * Supervisor: Mauricio Teles
   
 Skills
 ======
