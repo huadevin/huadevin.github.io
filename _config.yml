@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Devin Hua"
+title                    : "Home Page"
 title_separator          : "-"
 name                     : &name "Devin Hua"
 description              : &description "Software Developer, Data Systems @ YouthTruth"
