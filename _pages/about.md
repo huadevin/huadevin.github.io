@@ -23,6 +23,12 @@ What I do
 | `Cloud` | Salesforce, AWS, dbt, Qualtrics |
 
 
+Fun Facts
+=====
+- I love playing all kinds of sports, but in particular, basketball 🏀, golf ⛳, and soccer ⚽.
+- My favorite NBA player is Donovan Mitchell 🕷️, but since I am from the Bay Area, by default my wife and I are Warriors fans!
+      <img src="http://huadevin.github.io/images/warriors_game.JPG" width="300" height="200">
+
 Get in Touch!
 =====
 If you have any other questions you would like to ask me, feel free to reach out at devin.hua@berkeley.edu or connect with me on LinkedIn!
