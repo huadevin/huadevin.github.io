@@ -5,4 +5,14 @@ collection: portfolio
 ---
 
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+---
+title: "Trump Tweets Analysis"
+collection: publications
+permalink: /files/trump_tweets.pdf
+excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+date: 2009-10-01
+venue: 'Journal 1'
+paperurl: '[https://github.com/huadevin/huadevin.github.io/blob/master/files/trump_tweets.pdf]'
+---
+
+[Download paper here](https://github.com/huadevin/huadevin.github.io/blob/master/files/trump_tweets.pdf)
