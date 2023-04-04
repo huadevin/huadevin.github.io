@@ -44,3 +44,5 @@ Service and leadership
 ======
 * Youth Mentor to many high school and college students around the Bay Area
 * Assist under resourced churches through planning and putting on a Youth program every Sunday
+
+  <img src="http://huadevin.github.io/images/mentorship.JPG" width="300" height="200"> <img src="http://huadevin.github.io/images/interhigh.jpg" width="300" height="200">
