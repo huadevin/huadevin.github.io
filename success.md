@@ -1,4 +1,6 @@
-Thank you for getting in touch! 
+# Thank you for getting in touch! 
 
-I appreciate you contacting me! I will get back in touch with you soon and have a great day!
+I will get back to you with a reply soon. Have a great rest of your day!
+
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
